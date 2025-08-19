@@ -70,5 +70,6 @@ See `diagram/aws_architecture.png` for a visual representation of the project ar
 ## **Author**
 
 Your Name – Cloud Computing Beginner  
-[GitHub Profile](https://github.com/yourusername)  
-[LinkedIn Profile](https://linkedin.com/in/yourprofile)
+[GitHub Profile](https://github.com/sbennett020586sb-glitch)  
+[LinkedIn Profile](https://linkedin.comwww.linkedin.com/in/
+stuart-bennett-9436b6352)
